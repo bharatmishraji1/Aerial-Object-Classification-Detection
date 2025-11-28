@@ -159,7 +159,7 @@ Aerial-Object-Detection/
 ### **1. Clone the Repository**
 ```
 
-git clone [https://github.com/SVSS13/Aerial-Object-Detection.git](https://github.com/SVSS13/Aerial-Object-Detection.git)
+git clone [https://github.com/bharatmishraji1/Aerial-Object-Detection.git](https://github.com/bharatmisrhaji1/Aerial-Object-Detection.git)
 cd Aerial-Object-Detection
 
 ```
@@ -191,7 +191,7 @@ streamlit run streamlit_app/app.py
 
 ## 🎯 **Outputs**
 ### **🖼️ Insert Output Image Here**
->(https://github.com/SVSS13/Aerial-Object-Detection/blob/main/BD_py.jpg)
+>(https://github.com/bharatmishraji1/Aerial-Object-Detection/blob/main/BD_py.jpg)
 
 ```
 ```
@@ -222,11 +222,11 @@ streamlit run streamlit_app/app.py
 ---
 
 ## 🧑‍💻 **Author**
-### **SVS SUJAL**
+### **Bharat Mishra**
 | Platform | Link |
 |---------|------|
-| 🔗 GitHub | https://github.com/SVSS13 |
-| 🔗 LinkedIn | https://www.linkedin.com/in/svs-sujal-05219a316 |
+| 🔗 GitHub | https://github.com/bharatmishraji1 |
+| 🔗 LinkedIn | http://www.linkedin.com/in/bharat-mishra-974a6b1b6 |
 
 ---
 
@@ -251,6 +251,7 @@ If this project helped you, consider giving it a **⭐ on GitHub**!
 ```
 
 ---
+
 
 
 
